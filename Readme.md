@@ -2,7 +2,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/line-counter.git
+git clone https://github.com/doriath17/LineCounter.git
 cd line-counter
 
 # Create a virtual environment
